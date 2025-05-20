@@ -7,7 +7,7 @@
 🔧 I have hands-on experience in:
 - Advanced logic design exercises (currently practicing and uploading to GitHub)
 - FPGA design using SystemVerilog and Quartus
-- Stepper motor control project implemented on FPGA (see [step_motor](https://github.com/ofirm57/step_motor))
+- Stepper motor control project implemented on FPGA (see [step_motor](https://github.com/ofirm57/Step_Motor-Controller-))
 - Programming in C, C++, and Python
 - Embedded systems and hardware-software integration
 - Optical system development and experimental lab work
