@@ -24,6 +24,7 @@ SystemVerilog · Python · C/C++ · MATLAB · Git · Linux · FreeRTOS
 - LinkedIn: [linkedin.com/in/ofir-malkiely](https://www.linkedin.com/in/ofir-malkiely/)
 
 ---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ofirm57&layout=compact)
 
 ![Ofir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ofirm57&show_icons=true&theme=default)
 
